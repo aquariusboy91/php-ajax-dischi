@@ -35,6 +35,12 @@
     height: 150px;
 }
 
+.cards .img {
+    width: 150px;
+    height: 150px;
+
+}
+
 .cards {
     width: 150px;
     margin-right: 1.5em;
