@@ -16,3 +16,48 @@
     margin:0;
     box-sizing: border-box;
 }
+
+.main-cont {
+    height: 100vh;
+    background-color: #1E2D3B;
+}
+
+.img-cont {
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.img-cont .img {
+    width: 150px;
+    height: 150px;
+}
+
+.cards {
+    width: 150px;
+    margin-right: 1.5em;
+    background-color: #2E3A46;
+    margin-top: 1em;
+}
+
+h3 {
+    margin-top: 1em;
+    color: white;
+    text-align: center;
+}
+
+h4 {
+    margin-top: 1em;
+    color: white;
+    text-align: center; 
+}
+
+p {
+    margin-top: 1em;
+    color: white;
+    text-align: center; 
+}
+
+

@@ -12,8 +12,9 @@
       <!-- header -->
   <?php include_once __DIR__ . '/partials/header.php' ?>
 
-  <main>
-      
+  <main class="main-cont">
+    <?php include __DIR__ . '/partials/cards.php'
+        ?>
     </main>
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 
