@@ -1,3 +1,3 @@
-<header>
-    <img src="..\assets\img\logos.png" alt="" class="logo">
+<header class="header-cont">
+    <img src="img\logos.png" alt="" class="logo">
 </header>
